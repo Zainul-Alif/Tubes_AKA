@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1734616599 source:c:\users\zainul\onedrive\dokumen\tugas c++\tugas aka\aka\main.cpp
+	<iostream>
+	<vector>
+	<cmath>
+	<iomanip>
+
